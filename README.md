@@ -104,22 +104,6 @@ print(me.motto())
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=G-Abishekan&theme=tokyonight&hide_border=true&background=0d1117&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" alt="GitHub Streak" />
-</div>
-
----
-
-## 📊 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Abishekan&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FF6B6B&area=true&hide_border=true&theme=tokyo-night" alt="Activity Graph" />
-</div>
-
----
-
 ## 🏆 Trophy Wall
 
 <div align="center">
