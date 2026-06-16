@@ -90,25 +90,6 @@ print(me.motto())
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=G-Abishekan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD&text_color=c9d1d9" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Abishekan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=G-Abishekan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophy Wall" />
-</div>
 
 ---
 
